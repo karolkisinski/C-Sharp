@@ -1,0 +1,10 @@
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csprojAssemblyReference.cache
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.Form1.resources
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.Properties.Resources.resources
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.GenerateResource.cache
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.csproj.CoreCompileInputs.cache
+c:\users\karol\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe.config
+c:\users\karol\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.exe
+c:\users\karol\source\repos\TCPIP\TCPIP\bin\Debug\TCPIP.pdb
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.exe
+c:\users\karol\source\repos\TCPIP\TCPIP\obj\Debug\TCPIP.pdb
